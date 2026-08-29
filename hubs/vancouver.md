@@ -1,60 +1,106 @@
 # from Vancouver
 
-Vancouver has a different superpower from Shanghai.
+Vancouver's superpower is different from Shanghai's.
 
-Shanghai makes East Asia collapse inward. Vancouver makes **the Pacific coast and the Canadian North** feel startlingly reachable.
+Shanghai compresses cities. Vancouver compresses **coast, islands, mountains and the North**.
+
+The trick is to stop thinking only in terms of Air Canada / big jets. YVR South, Harbour Air and Pacific Coastal expose a second map made of seaplanes, turboprops and places that look remote enough to require a documentary crew.
 
 Route snapshot checked **2026-08-29**.
 
-## immediate danger zone
+## ring 0: tiny-plane magic
 
-| place | direct from Vancouver? | flight-ish | why we care |
-| --- | --- | ---: | --- |
-| [Tofino, BC](../places/tofino-bc.md) | yes | ~45m–1h10 | surf, rainforest, storms, beaches, hot springs |
-| [Haida Gwaii, BC](../places/haida-gwaii-bc.md) | yes | a few hours | remote islands, Haida culture, rainforest, Gwaii Haanas |
-| [Whitehorse, Yukon](../places/whitehorse-yukon.md) | yes | ~2h20 | aurora, Yukon River, trails, hot springs |
-| [Yellowknife, NWT](../places/yellowknife-nwt.md) | yes / seasonal schedules | ~2h30 | Great Slave Lake + ridiculous aurora odds |
+| place | how | time-ish / texture | why we care |
+| --- | --- | --- | --- |
+| [Salt Spring Island](../places/salt-spring-island-bc.md) | Harbour Air | seaplane to Ganges | markets, farms, studios, island decompression |
+| [Sunshine Coast](../places/sunshine-coast-bc.md) | Harbour Air / ferry | YVR South → Sechelt exists in 2026 network | coast without leaving mainland BC |
+| [Tofino](../places/tofino-bc.md) | Harbour Air / Pacific Coastal | direct regional service | rainforest + surf + beaches |
+| Victoria | Harbour Air / jet / ferry | absurd frequency | downtown-to-downtown seaplane is inherently charming |
+| Nanaimo | Harbour Air / airlines / ferry | easy | gateway to central Island |
 
-### Tofino
+Harbour Air's **2026 YVR South scheduled network** includes Victoria, Nanaimo, Salt Spring, Sechelt and Tofino. This is a family-trip cheat code because international arrivals at YVR can transfer to a seaplane without first crossing the entire city.
 
-Current 2026 schedules show direct service from YVR to both **Tofino Harbour (YTP)** and **Long Beach Airport (YAZ)**. Some summer schedules are daily or better.
+## ring 1: Vancouver Island beyond the obvious
 
-This turns a famously annoying road/ferry journey into a “leave Vancouver and appear beside the Pacific” move.
+### [Comox Valley](../places/comox-valley-bc.md)
 
-### Haida Gwaii
+Pacific Coastal currently sells YVR → Comox nonstop, with selected future basic fares around **CAD $117** when checked. Ocean + Cumberland biking + Mount Washington + farms/seafood.
 
-Go Haida Gwaii currently lists **daily air service from Vancouver** to Sandspit on Air Canada and to Masset on Pacific Coastal.
+### Port Hardy
 
-This is the heavyweight trip: remote enough to feel like the edge of the world, but still directly connected to YVR.
+Regional-flight gateway to northern Vancouver Island. Put this on the list for trips involving Cape Scott, whale/wildlife operations, or onward coastal travel.
 
-### Whitehorse
+### Campbell River
 
-YVR's own departure board currently shows multiple Air North and Air Canada flights to Whitehorse in a day. Aurora season begins around late August and runs into spring.
+Another regional-air option and a useful base for the Discovery Islands / north-central Island.
 
-### Yellowknife
+## ring 2: BC interior without the drive
 
-YVR has direct Yellowknife service in the network, including seasonal northern-lights-oriented schedules. This one is more timing-sensitive, so always check the current season.
+### [Kelowna + Okanagan](../places/kelowna-okanagan-bc.md)
 
-## what belongs on the Vancouver list next
+YVR → YLW is about an hour and extremely frequent. Air Canada's current fare calendar was showing selected future one-way economy fares around **CAD $62–73** when checked.
 
-- Prince Rupert
-- Bella Bella / Great Bear Rainforest access
-- Kelowna + Okanagan wine country
-- Victoria by seaplane because that is objectively charming
-- Alaska
-- Honolulu / Maui
-- Tokyo as the trans-Pacific “bigger trip” button
-- coastal BC places reached by absurdly tiny planes
+This is the strongest "why are we driving five hours?" candidate on the list.
 
-## route sources
+### Penticton / Trail / Cranbrook / Kamloops
 
-- YVR current destinations / departure board: https://www.yvr.ca/en/passengers/flights/airlines-and-destinations
-- Tofino route launch: https://news.yvr.ca/a-new-way-to-reach-the-coast-has-landed-at-yvr/
-- Current YVR → Tofino schedules: https://www.flightconnections.com/flights-from-yvr-to-yaz
-- Haida Gwaii getting here: https://www.gohaidagwaii.ca/plan-your-trip
+Pacific Coastal's current network keeps a surprising number of smaller interior airports connected to Vancouver. These deserve trip-specific pages when a particular season/activity makes them interesting.
+
+## ring 3: the coast gets serious
+
+### [Bella Coola Valley](../places/bella-coola-bc.md)
+
+Direct Pacific Coastal service. Example advance one-way basic fare around **CAD $242** when checked. Glacier-fed river valley, huge mountains, wildlife, Nuxalk territory.
+
+### [Great Bear Rainforest / Bella Bella](../places/great-bear-rainforest-bc.md)
+
+YVR → Bella Bella nonstop. Indigenous Tourism BC explicitly uses this as an access route for Great Bear Rainforest experiences. Example future basic fare around **CAD $256** when checked.
+
+This is one of the repo's highest-value discoveries because the destination feels expedition-grade while the first leg is just a regional flight from home.
+
+### [Haida Gwaii](../places/haida-gwaii-bc.md)
+
+Still a heavyweight. Daily air links from Vancouver, then the actual trip should be planned around Haida culture, communities and the islands rather than just "remote scenery."
+
+### Prince Rupert
+
+Air Canada currently sells YVR → YPR nonstop; advance future one-way economy pricing was around **CAD $305** on selected dates when checked. This can become a raincoast / ferry / wildlife / northern-coast trip rather than merely a destination city.
+
+## ring 4: press the NORTH button
+
+- [Whitehorse](../places/whitehorse-yukon.md) — direct, aurora + Yukon River + mountains.
+- [Yellowknife](../places/yellowknife-nwt.md) — direct/seasonal depending schedule; aurora trip built around looking up.
+
+Future pages:
+
+- Anchorage / Alaska routes when schedule + price line up.
+- Juneau / Inside Passage via mixed air-ferry logic.
+- Northern BC rail/coast loops.
+
+## family-trip decision tree
+
+**Want almost zero planning?** Salt Spring / Victoria / Kelowna.
+
+**Want ocean + outdoors but still comfy?** Comox Valley / Sunshine Coast / Tofino.
+
+**Want a proper memory?** Bella Coola / Haida Gwaii.
+
+**Want one of those trips people ask about for years?** Great Bear Rainforest / Yukon / Northwest Territories.
+
+## live-ish route / price sources
+
+- Harbour Air — 2026 YVR South destinations: https://harbourair.com/blog/richmond-yvr-south-destinations/
+- Harbour Air locations: https://harbourair.com/contact-us/
+- Pacific Coastal route/fare hub: https://flights.pacificcoastal.com/en/
+- Bella Coola flights: https://flights.pacificcoastal.com/en/flights-to-bella-coola
+- Bella Bella flights: https://flights.pacificcoastal.com/en/flights-to-bella-bella
+- Comox flights: https://flights.pacificcoastal.com/en/flights-to-comox
+- Air Canada YVR → Kelowna: https://www.aircanada.com/en-ca/flights-from-vancouver-to-kelowna
+- Air Canada YVR → Prince Rupert: https://www.aircanada.com/en-ca/flights-from-vancouver-to-prince-rupert
+- YVR destinations: https://www.yvr.ca/en/passengers/flights/airlines-and-destinations
 
 ## current verdict
 
-Vancouver is a **coast-and-North launcher**.
+The Vancouver strategy is:
 
-The family version of this repo should exploit that aggressively.
+**before accepting a five-to-fifteen-hour ground journey, check whether a tiny plane will simply drop us into the interesting part.**
