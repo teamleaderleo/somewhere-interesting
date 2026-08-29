@@ -2,56 +2,82 @@
 
 Nantong is the sleeper hub.
 
-It does not have Shanghai's giant international network, but that is almost more interesting: **NTG quietly puts a ridiculous amount of China within a two-to-three-hour nonstop flight.**
+The airport is domestic-only right now, but the route map is much better than the city's size suggests. **NTG quietly turns huge chunks of China into two-to-three-hour family trips.**
 
-Route snapshot checked **2026-08-29**.
+Route snapshot checked **2026-08-29**. A lot of NTG service is seasonal, so exact dates deserve a re-check before anyone gets emotionally attached.
 
-## immediate danger zone
+## the current short-haul absurdity table
 
-| place | direct from NTG? | flight-ish | why we care |
-| --- | --- | ---: | --- |
-| [Zhangjiajie, Hunan](../places/zhangjiajie-china.md) | yes | ~2h10 | thousands of sandstone pillars in the clouds |
-| [Xiamen, Fujian](../places/xiamen-china.md) | yes | ~1h50 | Gulangyu, sea, subtropical Fujian, weirdly easy |
-| [Chongqing](../places/chongqing-china.md) | yes | ~2h35 | vertical megacity, hotpot, rivers, cyberpunk nightscape |
-| [Kunming, Yunnan](../places/kunming-china.md) | yes | ~2h50 | Yunnan launchpad + Stone Forest + mild highland city |
+| place | nonstop time-ish | current route texture | why we care |
+| --- | ---: | --- | --- |
+| [Dalian](../places/dalian-china.md) | ~1h40 | ~24 flights/week in active season | northern coast + seafood + summer escape |
+| [Xiamen](../places/xiamen-china.md) | ~1h50 | established nonstop | Gulangyu + subtropical Fujian |
+| Changsha | ~1h50 | ~14 flights/week | Hunan food + city energy + Yuelu / Orange Isle |
+| [Zhangjiajie](../places/zhangjiajie-china.md) | ~2h10 | seasonal / date-sensitive | sandstone pillars in clouds |
+| [Xi'an](../places/xian-china.md) | ~2h20 | ~14 flights/week | ancient capital + food + Terracotta Warriors |
+| [Guilin + Yangshuo](../places/guilin-yangshuo-china.md) | ~2h30 | small weekly schedule | karst towers + river + bikes |
+| [Chongqing](../places/chongqing-china.md) | ~2h35 | multiple current flights | vertical megacity + hotpot |
+| [Kunming](../places/kunming-china.md) | ~2h50 | seasonal current service | Yunnan launchpad |
+| Guiyang | ~2h50 | ~15 flights/week | Guizhou mountains / waterfalls / minority cultures |
+| [Chengdu](../places/chengdu-china.md) | ~2h55 | ~26 flights/week | pandas + Sichuan food + tea-house mode |
 
-### Zhangjiajie
+## the hidden route map gets weirder
 
-Current schedules show NTG → DYG nonstop in about **2h10**, several times a week.
+FlightConnections' current NTG map also lists nonstop service to places including **Harbin, Hailar, Hohhot, Shenyang, Fuzhou, Zhuhai, Guangzhou, Shenzhen, Beijing, Urumqi and others** depending on season.
 
-This is a wild ratio: leave ordinary Jiangsu terrain and two hours later you are in the landscape with **3,000+ narrow sandstone pillars**.
+That means Nantong is secretly useful for trips built around *climate change*:
 
-### Xiamen
+- Jiangsu is roasting → **Dalian / Hailar / Harbin**.
+- Jiangsu is grey and cold → **Xiamen / Zhuhai / Guangzhou**.
+- We want mountains → **Guiyang / Zhangjiajie / Chengdu / Kunming**.
+- We want history → **Xi'an**.
+- We want a city that looks like the laws of vertical navigation were repealed → **Chongqing**.
 
-NTG → XMN is around **1h50 nonstop**. Gulangyu alone makes this an easy family long-weekend candidate.
+## strongest family candidates
 
-### Chongqing
+### [Xi'an](../places/xian-china.md)
 
-NTG → CKG is around **2h35 nonstop**, with current schedules showing multiple flights per day. This is the “we want a city that feels completely unlike Jiangsu” button.
+Probably the cleanest culture-heavy family trip from NTG: ~2h20 nonstop, frequent enough to plan around, and enough content for several generations to care about different things.
 
-### Kunming
+### [Chengdu](../places/chengdu-china.md)
 
-NTG → KMG is around **2h50 nonstop**, with current schedules showing roughly two flights daily. From there, Yunnan opens up.
+~2h55, roughly 26 weekly flights in current data. Pandas are the obvious family hook; Sichuan food and Dujiangyan/Qingchengshan make the trip much bigger than that.
 
-## what belongs on the Nantong list next
+### [Guilin + Yangshuo](../places/guilin-yangshuo-china.md)
 
-- Chengdu
-- Changsha
-- Guiyang
-- Xi'an
-- Dalian
-- Guangzhou / Shenzhen if paired with something more specific
-- any seasonal international routes that appear and disappear from NTG
+The route is thinner, but ~2h30 nonstop to karst country is exactly the kind of thing this repo exists to remember.
+
+### [Dalian](../places/dalian-china.md)
+
+Only ~1h40. This is the "why are we enduring Jiangsu heat when there is another coast right there?" option.
+
+## already in the repo
+
+- [Zhangjiajie](../places/zhangjiajie-china.md)
+- [Xiamen](../places/xiamen-china.md)
+- [Chongqing](../places/chongqing-china.md)
+- [Kunming](../places/kunming-china.md)
+
+## research queue
+
+- **Guiyang + Huangguoshu + Guizhou villages** — current nonstop route is strong enough to deserve a page.
+- **Changsha + Zhangjiajie as a loop** — two Hunan modes, one trip.
+- **Hailar / Hulunbuir** — seasonal northern-grassland escape from humid Jiangsu.
+- **Harbin in deep winter** — deliberately go toward colder.
+- **Urumqi / Xinjiang** — 4h50 nonstop is long for this list but outrageous considering the geographic jump.
 
 ## route sources
 
-- Nantong → Zhangjiajie: https://www.flightconnections.com/flights-from-ntg-to-dyg
-- Nantong → Xiamen: https://www.flightconnections.com/flights-from-ntg-to-xmn
-- Nantong → Chongqing: https://www.flightconnections.com/flights-from-ntg-to-ckg
-- Nantong → Kunming: https://www.flightconnections.com/flights-from-ntg-to-kmg
+- Full current NTG route map: https://www.flightconnections.com/flights-from-nantong-ntg
+- Nantong → Xi'an: https://www.flightconnections.com/flights-from-ntg-to-xiy
+- Nantong → Chengdu: https://www.flightconnections.com/flights-from-ntg-to-tfu
+- Nantong → Guilin: https://www.flightconnections.com/flights-from-ntg-to-kwl
+- Nantong → Dalian: https://www.flightconnections.com/flights-from-ntg-to-dlc
+- Nantong → Changsha: https://www.flightconnections.com/flights-from-ntg-to-csx
+- Nantong → Guiyang: https://www.flightconnections.com/flights-from-ntg-to-kwe
 
 ## current verdict
 
-**Nantong makes domestic China feel tiny.**
+The Nantong strategy is beautifully simple:
 
-The play here is less “international portal” and more “how many radically different landscapes can we reach before lunch?”
+**pick a radically different part of China, check whether NTG happens to have a nonstop, and skip the Shanghai-airport pilgrimage whenever it does.**
