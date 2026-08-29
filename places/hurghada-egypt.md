@@ -1,5 +1,9 @@
 # Hurghada, Egypt
 
+![Giftun Island near Hurghada](https://commons.wikimedia.org/wiki/Special:Redirect/file/Giftoun%20Island%20near%20Hurghada.jpg?width=1400)
+
+*Giftun Island near Hurghada. Photo by Visem, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giftoun_Island_near_Hurghada.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ## why this is here
 
 This entry began at **Gate B41 in Frankfurt Airport**.
@@ -21,7 +25,7 @@ The nearby **Giftun Islands** are the part that really detonated the imagination
 
 And apparently the underwater visibility can reach **70 metres in some spots**.
 
-This is not merely “Egypt, but with a beach.” It is a whole Red Sea holiday ecosystem.
+This is a whole Red Sea holiday ecosystem.
 
 ## things I would actually want to do
 
@@ -67,6 +71,7 @@ Add a diving course or several serious reef days and leave some time deliberatel
 - Experience Egypt — snorkeling & diving: https://www.experienceegypt.eg/en/attraction-details/153/splashing-around
 - Experience Egypt — Red Sea islands: https://www.experienceegypt.eg/en/attraction-details/1035/red-sea-island
 - Condor — Frankfurt to Hurghada: https://www.condor.com/de/fluege/aegypten/hurghada/von-frankfurt-main/
+- Photo / license: https://commons.wikimedia.org/wiki/File:Giftoun_Island_near_Hurghada.jpg
 
 ## current verdict
 
