@@ -42,8 +42,33 @@ Sulfur baths, old balconies, wine, Caucasus energy and a city whose name comes f
 White sand and turquoise Atlantic on a dry island off West Africa.<br><i>geographically delightful</i>
 </td>
 <td width="50%">
-<br><br><b>???</b><br>
-The next departure-board rabbit hole goes here.<br><i>open slot</i>
+<a href="places/djerba-tunisia.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Midoun-hotel-25.jpg?width=800" alt="Sidi Mahrez Beach, Djerba"></a><br>
+<b><a href="places/djerba-tunisia.md">Djerba, Tunisia</a></b><br>
+Mediterranean island, souks and beaches less than three hours from Frankfurt.<br><i>outrageous flight-time ratio</i>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="places/muscat-oman.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Muttrah_corniche.jpg?width=800" alt="Muttrah Corniche, Muscat"></a><br>
+<b><a href="places/muscat-oman.md">Muscat, Oman</a></b><br>
+Mountains hit the Arabian Sea; souqs, forts, snorkeling islands and wadis radiate outward.<br><i>desert coast portal</i>
+</td>
+<td width="50%">
+<a href="places/almaty-kazakhstan.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Almaty_mountains.jpg?width=800" alt="Mountains above Almaty"></a><br>
+<b><a href="places/almaty-kazakhstan.md">Almaty, Kazakhstan</a></b><br>
+A Central Asian city with the Tian Shan essentially attached to the neighbourhood.<br><i>city + 3,000m playground</i>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="places/yerevan-armenia.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Yerevan%2C%20Cascade%20of%20Yerevan%2C%20Armenia.jpg?width=800" alt="Yerevan Cascade"></a><br>
+<b><a href="places/yerevan-armenia.md">Yerevan, Armenia</a></b><br>
+Cascade, Armenian food, Ararat on the horizon, and a four-hour direct flight from FRA.<br><i>Caucasus weekend danger</i>
+</td>
+<td width="50%">
+<a href="places/zanzibar-tanzania.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Zanzibar_Stone_Town_beach.jpg?width=800" alt="Stone Town waterfront, Zanzibar"></a><br>
+<b><a href="places/zanzibar-tanzania.md">Zanzibar, Tanzania</a></b><br>
+Swahili Stone Town + Indian Ocean reefs, reachable nonstop from Frankfurt.<br><i>the departure board is a threat</i>
 </td>
 </tr>
 </table>
