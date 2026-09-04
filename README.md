@@ -8,7 +8,7 @@ This is less a travel guide and more an accumulating case for going places.
 
 Some entries begin with deliberate research. Others begin because a departure board says **Hurghada**, an entire gate suddenly fills with German vacationers, and ten minutes later we discover that Frankfurt has a cheap direct portal to the Red Sea.
 
-The useful version of the project now has three home launchpads too: **Shanghai, Nantong, and Vancouver**.
+The useful version of the project now has four home launchpads too: **Shanghai, Nantong, Vancouver, and Toronto**.
 
 ## launchpads we actually care about
 
@@ -23,6 +23,10 @@ The sleeper hub. Current examples: **Xiamen ~1h50, Zhangjiajie ~2h10, Chongqing 
 ### [Vancouver](hubs/vancouver.md)
 
 The coast-and-North launcher. **Tofino, Haida Gwaii, Whitehorse and Yellowknife** all become much more plausible when you look at actual air links instead of the map.
+
+### [Toronto](hubs/toronto.md)
+
+The range launcher. **Mexico City ~4h40, Iceland ~5h35, São Miguel ~5h45, Guyana ~6h15** nonstop — plus a whole second rabbit hole where northern Ontario itself starts getting extremely empty.
 
 ## the family orbit
 
@@ -89,13 +93,14 @@ Aurora, Yukon River, trails and hot springs; multiple direct YVR flights in curr
 </tr>
 <tr>
 <td width="50%">
-<a href="places/yellowknife-nwt.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Northern%20Lights%20at%20Yellowknife.jpg?width=800" alt="Northern lights at Yellowknife"></a><br>
+<a href="places/yellowknife-nwt.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Northern%20Lights%20at%20Yellowknife.jpg?width=800" alt="Northern lights in Yellowknife"></a><br>
 <b><a href="places/yellowknife-nwt.md">Yellowknife, NWT</a></b><br>
 Great Slave Lake, winter roads, dogsleds and aurora overhead.<br><i>a trip built around looking up</i>
 </td>
 <td width="50%">
-<br><br><b>???</b><br>
-Next family-orbit rabbit hole goes here.<br><i>we are nowhere near done</i>
+<a href="places/sao-miguel-azores.md"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sete%20Cidades%20in%20Sao%20Miguel%2C%20Azores.jpg?width=800" alt="Sete Cidades, São Miguel"></a><br>
+<b><a href="places/sao-miguel-azores.md">São Miguel, Azores</a></b><br>
+Crater lakes, geothermal valleys and Atlantic-island green — ~5h45 nonstop from Toronto.<br><i>Toronto → volcano island before breakfast</i>
 </td>
 </tr>
 </table>
