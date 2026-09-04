@@ -4,7 +4,7 @@ Shanghai is the launchpad where the map starts lying to you.
 
 Places that *feel* like trips can be **30–90 minutes away by high-speed rail**, while Jeju / Kyushu / Okinawa sit in the same rough time budget as many domestic Chinese flights.
 
-Route snapshot checked **2026-08-29**.
+Route snapshot checked **2026-08-29** unless an entry says otherwise.
 
 ## ring 0: barely counts as travel
 
@@ -37,17 +37,24 @@ Current Shanghai → Huangshan North examples cluster around **2h50–3h10**. Gr
 
 Sacred Buddhist mountain **on an island**. Typical approach: HSR toward Ningbo, transfer to Zhujiajian wharf, then ferry. More friction than Hangzhou; much stronger threshold feeling.
 
+### [Weihai + Rongcheng, Shandong](../places/weihai-rongcheng-china.md)
+
+Checked **2026-09-04**: Hongqiao → Weihai currently has **14 nonstop flights/week** at roughly **1h45–2h10**, with additional nonstop service from Pudong. The reward is a Yellow Sea coastal road trip: islands, seafood, headlands, fishing towns and the eastern edge of the Shandong Peninsula.
+
+This is excellent “a flight search showed me a random domestic city and now I am looking at sea-cliff photos” material.
+
 ### Wuyuan / Shangrao orbit
 
 This is a future deep dive: old Hui-style villages, terraced country, and easy onward access toward Sanqingshan / Jiangxi once the exact train schedule makes sense.
 
-## international weekend danger zone
+## international short-trip zone
 
 | place | nonstop from PVG? | flight-ish | repo |
 | --- | --- | ---: | --- |
 | [Jeju, South Korea](../places/jeju-south-korea.md) | yes | ~1h35 | volcano + lava tubes + sea |
 | [Fukuoka, Japan](../places/fukuoka-japan.md) | yes | ~2h05 | ramen/yatai compact-city food mission |
 | [Okinawa, Japan](../places/okinawa-japan.md) | yes | ~2h40 | subtropical islands + Kerama reefs |
+| [Ulaanbaatar + Terelj, Mongolia](../places/ulaanbaatar-terelj-mongolia.md) | yes | ~3h45–4h | capital + ger night + mountains / steppe |
 | Busan | generally easy nonstop market | short-haul | coast + Korean city + seafood |
 | Taipei | dense nonstop market | short-haul | food, hot springs, mountains, city |
 | Seoul | dense nonstop market | short-haul | giant-city weekend button |
@@ -55,15 +62,27 @@ This is a future deep dive: old Hui-style villages, terraced country, and easy o
 
 Exact international schedules move around, so individual trip planning should always re-check the date.
 
+## bigger direct-flight trips
+
+### [Tashkent + Samarkand, Uzbekistan](../places/tashkent-samarkand-uzbekistan.md)
+
+China Eastern now flies **PVG → Tashkent nonstop four times a week**, roughly eight hours westbound. After landing, the current Uzbek Railways timetable has a daily **08:00 Tashkent Central → 10:25 Samarkand** train.
+
+Direct flight + morning train + Registan is an unusually clean path into a major Silk Road trip.
+
+This belongs in the five-days-minimum category, with a week opening the door to Bukhara too.
+
 ## family-trip logic
 
 **Day-trip brain:** Suzhou / Wuxi / Hangzhou.
 
 **One-night brain:** Hangzhou, Nanjing, Shaoxing, water towns.
 
-**2–3 night brain:** Huangshan, Putuoshan, Qiandao Lake, Jeju, Fukuoka.
+**2–3 night brain:** Huangshan, Putuoshan, Qiandao Lake, Weihai/Rongcheng, Jeju, Fukuoka.
 
-**"we have five days, let's make it count" brain:** Okinawa island-hopping, deeper Kyushu, Wuyuan + Huangshan, or a Taiwan loop.
+**3–4 night brain:** Okinawa island-hopping, Ulaanbaatar + Terelj, deeper Kyushu.
+
+**Five days or more:** Uzbekistan / Samarkand, Wuyuan + Huangshan, or a Taiwan loop.
 
 ## route / research sources
 
@@ -73,15 +92,20 @@ Exact international schedules move around, so individual trip planning should al
 - Shanghai ↔ Huangshan rail: https://www.travelchinaguide.com/china-trains/shanghai-huangshan.htm
 - Qiandaohu station: https://www.travelchinaguide.com/china-trains/qiandaohu-railway-station.htm
 - Putuoshan access: https://www.chinadiscovery.com/putuoshan-tours/transportation.html
+- Shanghai → Weihai: https://www.directflights.com/SHA-WEH
 - Shanghai → Jeju: https://www.flightconnections.com/flights-from-pvg-to-cju
 - Shanghai → Fukuoka: https://www.flightconnections.com/flights-from-pvg-to-fuk
 - Shanghai → Okinawa: https://www.flightconnections.com/flights-from-pvg-to-oka
+- Shanghai → Ulaanbaatar: https://www.directflights.com/PVG-UBN
+- Shanghai → Tashkent: https://www.flightconnections.com/flights-from-pvg-to-tas
+- Uzbek Railways: https://eticket.railway.uz/en/pages/schedule
 
 ## current verdict
 
-Shanghai does two different things at once:
+Shanghai does three different things at once:
 
 1. **Jiangnan becomes local geography by rail.**
-2. **East Asia becomes casual weekend geography by air.**
+2. **East Asia and parts of northern China become casual weekend geography by air.**
+3. **A few direct long-haul routes turn places like Mongolia and Uzbekistan into realistic plans.**
 
-We should exploit both.
+We should exploit all three.
