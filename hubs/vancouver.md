@@ -14,11 +14,18 @@ Route snapshot checked **2026-08-29** unless an entry says otherwise.
 | --- | --- | --- | --- |
 | [Salt Spring Island](../places/salt-spring-island-bc.md) | Harbour Air | seaplane to Ganges | markets, farms, studios, island decompression |
 | [Sunshine Coast](../places/sunshine-coast-bc.md) | Harbour Air / ferry | YVR South → Sechelt exists in 2026 network | coast without leaving mainland BC |
+| [Powell River / qathet](../places/powell-river-qathet-bc.md) | Pacific Coastal | ~36m nonstop; ~29 weekly flights checked 2026-09-04 | northern Sunshine Coast + Lund + paddling/trails |
 | [Tofino](../places/tofino-bc.md) | Harbour Air / Pacific Coastal | direct regional service | rainforest + surf + beaches |
 | Victoria | Harbour Air / jet / ferry | absurd frequency | downtown-to-downtown seaplane is inherently charming |
 | Nanaimo | Harbour Air / airlines / ferry | easy | gateway to central Island |
 
-Harbour Air's **2026 YVR South scheduled network** includes Victoria, Nanaimo, Salt Spring, Sechelt and Tofino. This is a family-trip cheat code because international arrivals at YVR can transfer to a seaplane without first crossing the entire city.
+Harbour Air's **2026 YVR South scheduled network** includes Victoria, Nanaimo, Salt Spring, Sechelt and Tofino. Pacific Coastal adds another cheat code: **Powell River in about 36 minutes**, which turns the northern Sunshine Coast from a double-ferry project into a tiny-plane weekend.
+
+### [Savary Island](../places/savary-island-bc.md)
+
+The fun extension from Powell River: drive roughly half an hour to Lund, then take the water taxi about **10 minutes** across to a car-free-ish sandy island with long pale beaches and clear water.
+
+There is no bridge and no car ferry. That is part of the point.
 
 ## ring 1: Vancouver Island beyond the obvious
 
@@ -46,7 +53,15 @@ YVR → YLW is about an hour and extremely frequent. Air Canada's current fare c
 
 This is the strongest "why are we driving five hours?" candidate on the list.
 
-### Penticton / Trail / Cranbrook / Kamloops
+### [Penticton + Naramata Bench](../places/penticton-naramata-bc.md)
+
+Checked **2026-09-04**: YVR → YYF is about **58 minutes nonstop**, with roughly **18 weekly flights** in current schedule data.
+
+Penticton sits between **Okanagan Lake and Skaha Lake**; Naramata Bench starts almost immediately north of town. Visit Penticton lists more than 80 wineries within roughly a 15–20 minute drive, plus beaches, KVR cycling, orchards and enough lake-view patios to make a two-night trip feel luxuriant.
+
+This is the “fly instead of losing half a day to Highway 97” version of the Okanagan.
+
+### Trail / Cranbrook / Kamloops
 
 Pacific Coastal's current network keeps a surprising number of smaller interior airports connected to Vancouver. These deserve trip-specific pages when a particular season/activity makes them interesting.
 
@@ -87,7 +102,9 @@ Future pages:
 
 ## family-trip decision tree
 
-**Want almost zero planning?** Salt Spring / Victoria / Kelowna.
+**Want almost zero planning?** Salt Spring / Victoria / Kelowna / Penticton.
+
+**Want an island whose beach photos look suspiciously tropical?** Powell River → Savary.
 
 **Want ocean + outdoors but still comfy?** Comox Valley / Sunshine Coast / Tofino.
 
@@ -104,6 +121,13 @@ Future pages:
 - Harbour Air — 2026 YVR South destinations: https://harbourair.com/blog/richmond-yvr-south-destinations/
 - Harbour Air locations: https://harbourair.com/contact-us/
 - Pacific Coastal route/fare hub: https://flights.pacificcoastal.com/en/
+- Powell River flights: https://flights.pacificcoastal.com/en/flights-to-powell-river
+- Vancouver → Powell River schedule: https://www.flightconnections.com/flights-from-yvr-to-ypw
+- Savary Island access: https://savary.ca/getting-here/
+- Lund Water Taxi: https://www.lundwatertaxi.com/schedule
+- Penticton flights: https://flights.pacificcoastal.com/en/flights-to-penticton
+- Vancouver → Penticton schedule: https://www.flightconnections.com/flights-from-yvr-to-yyf
+- Visit Penticton / Naramata: https://visitpenticton.com/experience/wine/
 - Campbell River flights: https://flights.pacificcoastal.com/en/flights-to-campbell-river
 - Campbell River current schedule: https://www.flightsfrom.com/YVR-YBL
 - Bella Coola flights: https://flights.pacificcoastal.com/en/flights-to-bella-coola
