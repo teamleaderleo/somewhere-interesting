@@ -39,7 +39,6 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 
 ### current/direct-flight candidates
 
-- **Guiyang + Huangguoshu** — NTG nonstop is currently strong; Guizhou deserves a full page.
 - **Changsha** — ~1h50 nonstop; Hunan food + city + Zhangjiajie loop potential.
 - **Harbin** — winter ice-city trip deliberately aimed north.
 - **Hohhot** — Inner Mongolia gateway from NTG.
@@ -52,7 +51,6 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 
 - **Yangzhou** — figure out the most painless Nantong → Yangzhou rail/road pattern.
 - **Taizhou, Jiangsu** — old water-town / food / immediate-family-distance candidate.
-- **Yancheng wetlands** — migratory bird coast and red-crowned crane ecology.
 - **Rugao** — close enough that we may have ignored it precisely because it is close.
 - **Qidong / Lüsi coast** — map the actual good coastal day-trip options from Nantong.
 
@@ -60,7 +58,6 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 
 ### tiny planes / coast
 
-- **Campbell River** — Discovery Islands and wildlife access.
 - **Powell River / qathet** — Sunshine Coast Trail + Savary / Desolation Sound links.
 - **Masset as its own trip** — northern Haida Gwaii rather than generic island page.
 - **Klemtu** — Spirit Bear Lodge access deserves logistics notes separate from generic Great Bear Rainforest.
@@ -93,6 +90,9 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 
 ## recently promoted
 
+- [Yancheng Wetlands](places/yancheng-wetlands-jiangsu.md) — Nantong West → globally important UNESCO migratory-bird coast in as little as ~39m by HSR.
+- [Guiyang + Huangguoshu](places/guiyang-huangguoshu-guizhou.md) — Nantong → Guizhou food / karst / giant waterfall in ~2h55 nonstop.
+- [Campbell River + Discovery Islands](places/campbell-river-discovery-islands-bc.md) — YVR South → whales / islands / Discovery Passage in ~46m.
 - [Hulunbuir / Hailar](places/hulunbuir-inner-mongolia.md) — Nantong → grassland in ~3h35.
 - [Weihai + Rongcheng](places/weihai-rongcheng-china.md) — Shanghai → Yellow Sea road trip in ~2h.
 - [Ulaanbaatar + Terelj](places/ulaanbaatar-terelj-mongolia.md) — Shanghai → Mongolia in ~4h.
