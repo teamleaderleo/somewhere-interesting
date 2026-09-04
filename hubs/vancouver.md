@@ -6,7 +6,7 @@ Shanghai compresses cities. Vancouver compresses **coast, islands, mountains and
 
 The trick is to stop thinking only in terms of Air Canada / big jets. YVR South, Harbour Air and Pacific Coastal expose a second map made of seaplanes, turboprops and places that look remote enough to require a documentary crew.
 
-Route snapshot checked **2026-08-29**.
+Route snapshot checked **2026-08-29** unless an entry says otherwise.
 
 ## ring 0: tiny-plane magic
 
@@ -26,9 +26,11 @@ Harbour Air's **2026 YVR South scheduled network** includes Victoria, Nanaimo, S
 
 Pacific Coastal currently sells YVR → Comox nonstop, with selected future basic fares around **CAD $117** when checked. Ocean + Cumberland biking + Mount Washington + farms/seafood.
 
-### Port Hardy
+### [Port Hardy + Cape Scott](../places/port-hardy-cape-scott-bc.md)
 
-Regional-flight gateway to northern Vancouver Island. Put this on the list for trips involving Cape Scott, whale/wildlife operations, or onward coastal travel.
+Checked **2026-09-04**: YVR → Port Hardy is about **1h10 nonstop**, with roughly **9 weekly flights** in the active schedule.
+
+The flight deletes most of the north-Island slog. Cape Scott then supplies more than 115 km of ocean frontage, roughly 30 km of remote beaches, old-growth rainforest and serious hiking. The easy version is San Josef Bay; the ambitious version becomes a Cape Scott / North Coast Trail trip.
 
 ### Campbell River
 
@@ -62,9 +64,13 @@ This is one of the repo's highest-value discoveries because the destination feel
 
 Still a heavyweight. Daily air links from Vancouver, then the actual trip should be planned around Haida culture, communities and the islands rather than just "remote scenery."
 
-### Prince Rupert
+### [Prince Rupert](../places/prince-rupert-bc.md)
 
-Air Canada currently sells YVR → YPR nonstop; advance future one-way economy pricing was around **CAD $305** on selected dates when checked. This can become a raincoast / ferry / wildlife / northern-coast trip rather than merely a destination city.
+Checked **2026-09-04**: YVR → YPR is about **1h49 nonstop**, currently daily.
+
+Prince Rupert works best as a northern-coast gateway rather than a city-break checkbox: harbour, Indigenous history, whale / marine trips, ferry connections, and boat access toward the **Khutzeymateen / K'tzim-a-deen Grizzly Sanctuary** about 45 km northeast of town.
+
+Less than two hours of flying to the staging point for marine-access grizzly country is a strong use of YVR.
 
 ## ring 4: press the NORTH button
 
@@ -83,6 +89,8 @@ Future pages:
 
 **Want ocean + outdoors but still comfy?** Comox Valley / Sunshine Coast / Tofino.
 
+**Want short flight + wild coast?** Port Hardy / Prince Rupert.
+
 **Want a proper memory?** Bella Coola / Haida Gwaii.
 
 **Want one of those trips people ask about for years?** Great Bear Rainforest / Yukon / Northwest Territories.
@@ -95,8 +103,11 @@ Future pages:
 - Bella Coola flights: https://flights.pacificcoastal.com/en/flights-to-bella-coola
 - Bella Bella flights: https://flights.pacificcoastal.com/en/flights-to-bella-bella
 - Comox flights: https://flights.pacificcoastal.com/en/flights-to-comox
+- Vancouver → Port Hardy: https://www.flightconnections.com/flights-from-yvr-to-yzt
+- BC Parks — Cape Scott: https://bcparks.ca/cape-scott-park/
 - Air Canada YVR → Kelowna: https://www.aircanada.com/en-ca/flights-from-vancouver-to-kelowna
-- Air Canada YVR → Prince Rupert: https://www.aircanada.com/en-ca/flights-from-vancouver-to-prince-rupert
+- Vancouver → Prince Rupert: https://www.flightconnections.com/flights-from-yvr-to-ypr
+- BC Parks — Khutzeymateen / K'tzim-a-deen: https://bcparks.ca/khutzeymateen-park-aka-khutzeymateen-ktzim-a-deen-grizzly-sanctuary/
 - YVR destinations: https://www.yvr.ca/en/passengers/flights/airlines-and-destinations
 
 ## current verdict
