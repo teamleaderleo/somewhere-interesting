@@ -4,6 +4,12 @@ Nantong is the sleeper hub.
 
 The airport is domestic-only right now, but the route map is much better than the city's size suggests. **NTG quietly turns huge chunks of China into two-to-three-hour family trips.**
 
+## before flying anywhere: Nantong itself
+
+The family food brag turns out to have receipts. Nantong's own municipal material describes the local aquatic-food identity as **江鲜、海鲜、河鲜汇于一地** — Yangtze, marine and freshwater delicacies gathered in one place — and Rudong's famous **文蛤** carry the wonderfully restrained nickname **天下第一鲜**.
+
+There is now a dedicated rabbit hole for the food side: **[Nantong, Jiangsu — river, sea and a serious obsession with 鲜](../places/nantong-china.md)**.
+
 Route snapshot checked **2026-08-29**. A lot of NTG service is seasonal, so exact dates deserve a re-check before anyone gets emotionally attached.
 
 ## the current short-haul absurdity table
@@ -53,6 +59,7 @@ Only ~1h40. This is the "why are we enduring Jiangsu heat when there is another 
 
 ## already in the repo
 
+- [Nantong itself — aquatic food rabbit hole](../places/nantong-china.md)
 - [Zhangjiajie](../places/zhangjiajie-china.md)
 - [Xiamen](../places/xiamen-china.md)
 - [Chongqing](../places/chongqing-china.md)
