@@ -1,6 +1,6 @@
 # Nuuk, Greenland
 
-![Nuuk below Sermitsiaq](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nuuk%20city%20below%20Sermitsiak.JPG?width=1200)
+![Nuuk below Sermitsiaq](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nuuk%20city%20below%20Sermitsiaq.JPG?width=1200)
 
 ## why this is here
 
@@ -39,7 +39,7 @@ Greenland deserves slack in the itinerary. The point is to be there when the mou
 - Current Toronto → Nuuk routing: https://www.flightconnections.com/flights-from-yyz-to-goh
 - Official Nuuk tourism: https://visitgreenland.com/destinations/nuuk/
 - Capital Region: https://visitgreenland.com/destinations/the-capital-region/
-- Image: https://commons.wikimedia.org/wiki/File:Nuuk_city_below_Sermitsoq.JPG
+- Image: https://commons.wikimedia.org/wiki/File:Nuuk_city_below_Sermitsiaq.JPG
 
 ## current verdict
 
