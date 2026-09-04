@@ -26,6 +26,7 @@ Route snapshot checked **2026-08-29** unless an entry says otherwise. A lot of N
 | [Kunming](../places/kunming-china.md) | ~2h50 | seasonal current service | Yunnan launchpad |
 | [Guiyang + Huangguoshu](../places/guiyang-huangguoshu-guizhou.md) | ~2h55 | multiple daily departures checked 2026-09-04 | Guizhou food + karst + giant waterfall |
 | [Chengdu](../places/chengdu-china.md) | ~2h55 | ~26 weekly flights | pandas + Sichuan food + tea-house mode |
+| [Harbin](../places/harbin-china.md) | ~2h55 | 2 airlines in active schedule checked 2026-09-04 | deep-winter ice city + Dongbei food |
 | [Hulunbuir / Hailar](../places/hulunbuir-inner-mongolia.md) | ~3h35 | ~6 weekly departures checked 2026-09-04 | grassland + wetlands + absurd horizon |
 
 ## the even-closer rail absurdity
@@ -38,15 +39,25 @@ Then Yancheng's coast contains major components of the UNESCO-listed **Migratory
 
 This might be the cleanest example yet of a place being overlooked because it is *too easy* to reach.
 
+## the long-jump absurdity
+
+### [Ürümqi + Xinjiang gateway](../places/urumqi-xinjiang.md)
+
+Checked **2026-09-04**: China Southern is currently flying NTG → URC nonstop in about **5h00**, around three times a week in the active September schedule.
+
+Five hours is long by this hub's standards. The geographic payoff is enormous: more than 3,000 km west into Xinjiang, with Ürümqi as the hinge for Tianshan/Tianchi, Turpan and a much larger western-China trip.
+
+This is exactly the route to remember before defaulting to a Shanghai connection.
+
 ## the hidden route map gets weirder
 
-FlightConnections' current NTG map also lists nonstop service to places including **Harbin, [Hailar](../places/hulunbuir-inner-mongolia.md), Hohhot, Shenyang, Fuzhou, Zhuhai, Guangzhou, Shenzhen, Beijing, Urumqi and others** depending on season.
+FlightConnections' current NTG map also lists nonstop service to places including **[Harbin](../places/harbin-china.md), [Hailar](../places/hulunbuir-inner-mongolia.md), Hohhot, Shenyang, Fuzhou, Zhuhai, Guangzhou, Shenzhen, Beijing, [Urumqi](../places/urumqi-xinjiang.md) and others** depending on season.
 
-That means Nantong is secretly useful for trips built around *climate change*:
+That means Nantong is secretly useful for trips built around climate contrast:
 
-- Jiangsu is roasting → **Dalian / [Hailar](../places/hulunbuir-inner-mongolia.md) / Harbin**.
+- Jiangsu is roasting → **Dalian / [Hailar](../places/hulunbuir-inner-mongolia.md) / [Harbin](../places/harbin-china.md)**.
 - Jiangsu is grey and cold → **Xiamen / Zhuhai / Guangzhou**.
-- We want mountains → **[Guiyang](../places/guiyang-huangguoshu-guizhou.md) / Zhangjiajie / Chengdu / Kunming**.
+- We want mountains → **[Guiyang](../places/guiyang-huangguoshu-guizhou.md) / Zhangjiajie / Chengdu / Kunming / [Xinjiang](../places/urumqi-xinjiang.md)**.
 - We want history → **Xi'an**.
 - We want a city that looks like the laws of vertical navigation were repealed → **Chongqing**.
 
@@ -68,6 +79,10 @@ The route is thinner, but ~2h30 nonstop to karst country is exactly the kind of 
 
 About 2h55 nonstop in current schedules, with several airlines on the route. Guizhou food plus the Huangguoshu karst waterfall system gives this one an immediate premise rather than “weekend in another provincial capital.”
 
+### [Harbin in deep winter](../places/harbin-china.md)
+
+About 2h55 nonstop. This is the deliberately seasonal trip: wait for the ice city, dress properly, and go north because winter itself is the attraction.
+
 ### [Dalian](../places/dalian-china.md)
 
 Only ~1h40. This is the "why are we enduring Jiangsu heat when there is another coast right there?" option.
@@ -76,12 +91,18 @@ Only ~1h40. This is the "why are we enduring Jiangsu heat when there is another 
 
 The flight is longer at ~3h35, but the payoff is deranged: Nantong to Hailar currently runs nonstop, and the airport opens onto grasslands, wetlands and a road-trip world that feels vastly farther from Jiangsu than the clock says.
 
+### [Ürümqi / Xinjiang](../places/urumqi-xinjiang.md)
+
+Five hours is a bigger commitment, but a direct medium-size-airport jump from Nantong into Xinjiang is too useful to forget. This belongs in the “we have five-plus days, make them count” category.
+
 ## already in the repo
 
 - [Nantong itself — aquatic food rabbit hole](../places/nantong-china.md)
 - [Yancheng Wetlands](../places/yancheng-wetlands-jiangsu.md)
 - [Guiyang + Huangguoshu](../places/guiyang-huangguoshu-guizhou.md)
+- [Harbin](../places/harbin-china.md)
 - [Hulunbuir / Hailar](../places/hulunbuir-inner-mongolia.md)
+- [Ürümqi + Xinjiang gateway](../places/urumqi-xinjiang.md)
 - [Zhangjiajie](../places/zhangjiajie-china.md)
 - [Xiamen](../places/xiamen-china.md)
 - [Chongqing](../places/chongqing-china.md)
@@ -90,8 +111,10 @@ The flight is longer at ~3h35, but the payoff is deranged: Nantong to Hailar cur
 ## research queue
 
 - **Changsha + Zhangjiajie as a loop** — two Hunan modes, one trip.
-- **Harbin in deep winter** — deliberately go toward colder.
-- **Urumqi / Xinjiang** — 4h50 nonstop is long for this list but outrageous considering the geographic jump.
+- **Hohhot** — Inner Mongolia city / grassland alternative to the Hailar route.
+- **Fuzhou** — Fujian beyond Xiamen.
+- **Zhuhai** — Pearl River / Macau adjacency.
+- **Shenyang** — northeast history + food; maybe pair with Dalian by rail.
 
 ## route sources
 
@@ -102,7 +125,9 @@ The flight is longer at ~3h35, but the payoff is deranged: Nantong to Hailar cur
 - Nantong → Dalian: https://www.flightconnections.com/flights-from-ntg-to-dlc
 - Nantong → Changsha: https://www.flightconnections.com/flights-from-ntg-to-csx
 - Nantong → Guiyang: https://www.flightsfrom.com/NTG-KWE
+- Nantong → Harbin: https://www.flightsfrom.com/NTG-HRB
 - Nantong → Hailar: https://www.directflights.com/NTG-HLD
+- Nantong → Urumqi: https://www.flightsfrom.com/NTG-URC
 - Nantong West → Yancheng rail: https://ca.trip.com/trains/china/route/nantongxi-nantong-west-to-yancheng/
 - UNESCO Yancheng migratory bird sanctuaries: https://whc.unesco.org/en/list/1606/
 
