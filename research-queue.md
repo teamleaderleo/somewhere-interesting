@@ -28,13 +28,19 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 - **Sapporo / Hokkaido** — winter contrast trip.
 - **Hanoi / Ninh Binh** — short flight then karst-on-land extension.
 
+### 2026 route-map weirdness worth watching
+
+- **Manado + Bunaken, Indonesia** — the destination case is excellent: North Sulawesi + one of Indonesia's major marine parks, with Bunaken about 40–60 minutes by boat from Manado. Shanghai–Manado route listings conflict as of 2026-09-04, so re-check actual bookable nonstop service before promotion.
+- **Surabaya + Bromo, Indonesia** — Shanghai announced a 2026 direct route, but current September route searches are inconsistent / show connections. If nonstop service reappears, this becomes a very strong “land in East Java and go straight toward volcano country” page.
+- **Adelaide + South Australia** — Shanghai's 2026 seasonal nonstop ran June–August; watch whether it returns next season. Wine country + coast + Kangaroo Island could justify the long flight if the route sticks.
+- **Cheongju + inland Korea** — Shanghai added direct 2026 service; investigate whether this creates a better gateway for central Korea than defaulting to Seoul.
+
 ## from Nantong
 
 ### current/direct-flight candidates
 
 - **Guiyang + Huangguoshu** — NTG nonstop is currently strong; Guizhou deserves a full page.
 - **Changsha** — ~1h50 nonstop; Hunan food + city + Zhangjiajie loop potential.
-- **Hailar / Hulunbuir** — seasonal grassland escape; check exact summer schedule.
 - **Harbin** — winter ice-city trip deliberately aimed north.
 - **Hohhot** — Inner Mongolia gateway from NTG.
 - **Fuzhou** — Fujian beyond Xiamen.
@@ -54,8 +60,6 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 
 ### tiny planes / coast
 
-- **Prince Rupert** — raincoast + wildlife + ferry network; direct YVR flight.
-- **Port Hardy** — Cape Scott / northern Vancouver Island / onward boats.
 - **Campbell River** — Discovery Islands and wildlife access.
 - **Powell River / qathet** — Sunshine Coast Trail + Savary / Desolation Sound links.
 - **Masset as its own trip** — northern Haida Gwaii rather than generic island page.
@@ -86,6 +90,15 @@ This is intentionally a mix of obvious places approached from a less-obvious ang
 - **Honolulu / Maui** — obvious destination, but useful to track when pricing becomes stupidly cheap.
 - **Tokyo** — trans-Pacific trip that may actually be easier from Vancouver than family intuition suggests.
 - **Mexico City** — direct-flight urban trip rather than default resort Mexico.
+
+## recently promoted
+
+- [Hulunbuir / Hailar](places/hulunbuir-inner-mongolia.md) — Nantong → grassland in ~3h35.
+- [Weihai + Rongcheng](places/weihai-rongcheng-china.md) — Shanghai → Yellow Sea road trip in ~2h.
+- [Ulaanbaatar + Terelj](places/ulaanbaatar-terelj-mongolia.md) — Shanghai → Mongolia in ~4h.
+- [Tashkent + Samarkand](places/tashkent-samarkand-uzbekistan.md) — direct Shanghai flight + high-speed rail to Registan.
+- [Prince Rupert](places/prince-rupert-bc.md) — YVR → North Coast in ~1h49.
+- [Port Hardy + Cape Scott](places/port-hardy-cape-scott-bc.md) — YVR → north Vancouver Island in ~1h10.
 
 ## rule for promoting something to a full page
 
