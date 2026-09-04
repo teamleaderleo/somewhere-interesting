@@ -26,15 +26,17 @@ Harbour Air's **2026 YVR South scheduled network** includes Victoria, Nanaimo, S
 
 Pacific Coastal currently sells YVR → Comox nonstop, with selected future basic fares around **CAD $117** when checked. Ocean + Cumberland biking + Mount Washington + farms/seafood.
 
+### [Campbell River + Discovery Islands](../places/campbell-river-discovery-islands-bc.md)
+
+Checked **2026-09-04**: Pacific Coastal advertises **year-round double-daily nonstop service** between YVR South and Campbell River. The flight is about **46 minutes**, with selected advance basic fares around **CAD $129 one way** when checked.
+
+That is a tiny amount of airplane for direct access to Discovery Passage, Quadra Island, wildlife boats, whales, sea lions, eagles, salmon country and the wider Discovery Islands.
+
 ### [Port Hardy + Cape Scott](../places/port-hardy-cape-scott-bc.md)
 
 Checked **2026-09-04**: YVR → Port Hardy is about **1h10 nonstop**, with roughly **9 weekly flights** in the active schedule.
 
 The flight deletes most of the north-Island slog. Cape Scott then supplies more than 115 km of ocean frontage, roughly 30 km of remote beaches, old-growth rainforest and serious hiking. The easy version is San Josef Bay; the ambitious version becomes a Cape Scott / North Coast Trail trip.
-
-### Campbell River
-
-Another regional-air option and a useful base for the Discovery Islands / north-central Island.
 
 ## ring 2: BC interior without the drive
 
@@ -89,6 +91,8 @@ Future pages:
 
 **Want ocean + outdoors but still comfy?** Comox Valley / Sunshine Coast / Tofino.
 
+**Want 46 minutes of airplane and immediate boats?** Campbell River / Discovery Islands.
+
 **Want short flight + wild coast?** Port Hardy / Prince Rupert.
 
 **Want a proper memory?** Bella Coola / Haida Gwaii.
@@ -100,6 +104,8 @@ Future pages:
 - Harbour Air — 2026 YVR South destinations: https://harbourair.com/blog/richmond-yvr-south-destinations/
 - Harbour Air locations: https://harbourair.com/contact-us/
 - Pacific Coastal route/fare hub: https://flights.pacificcoastal.com/en/
+- Campbell River flights: https://flights.pacificcoastal.com/en/flights-to-campbell-river
+- Campbell River current schedule: https://www.flightsfrom.com/YVR-YBL
 - Bella Coola flights: https://flights.pacificcoastal.com/en/flights-to-bella-coola
 - Bella Bella flights: https://flights.pacificcoastal.com/en/flights-to-bella-bella
 - Comox flights: https://flights.pacificcoastal.com/en/flights-to-comox
