@@ -4,9 +4,9 @@
 
 ## why this is here
 
-Because Vancouver has **multiple direct flights to Whitehorse in a day**.
+Because Vancouver has **multiple direct flights to Whitehorse in a day** — and now because the northern-job rabbit hole revealed that Whitehorse is also the civilized staging point for a whole alternate version of life in Yukon.
 
-The Canadian North sounds huge and abstract until YVR's departure board casually says WHITEHORSE several times between breakfast and dinner.
+The Canadian North sounds huge and abstract until an airport departure board casually says WHITEHORSE several times between breakfast and dinner.
 
 ## the place
 
@@ -23,6 +23,7 @@ So Vancouver can go from coastal city to northern-lights base in roughly a coupl
 - Soak at Eclipse Nordic Hot Springs.
 - Paddle a stretch of the Yukon River.
 - Drive toward Carcross / Emerald Lake.
+- Keep going west toward **Haines Junction and Kluane**.
 - Spend a day learning more about Yukon First Nations history and contemporary life.
 - Come back in a different season because summer and winter are basically different planets.
 
@@ -35,6 +36,22 @@ Checked **2026-08-29**:
 
 This is one of those routes that changes the mental map of Canada.
 
+## the Toronto portal
+
+Checked **2026-09-08**, flexible Skyscanner pricing for **October 2026** showed Toronto–Whitehorse round trips around **CAD $628–$725** on good dates, generally with a connection.
+
+That is expensive enough to notice and cheap enough that somebody earning a strong northern salary could plausibly keep Toronto in their life several times a year.
+
+## the wait-what career detour
+
+Whitehorse itself is the main Yukon city, but the bigger discovery is what it unlocks nearby.
+
+- **Haines Junction** is about 160 km away and currently has professional CAFN management roles above **$100k**.
+- **Old Crow** is reached by air through the Yukon network and comes with employment agreements that explicitly compensate for isolation and travel.
+- Yukon government, First Nations governments, healthcare, education, trades, mining, and tourism all create career paths that look very different from the downtown-Toronto coordinator economy.
+
+So Whitehorse has become interesting as both a destination and a **base camp for asking whether living north could actually be a good idea**.
+
 ## rough trip
 
 **Three nights:** enough for a first aurora-oriented sidequest.
@@ -43,6 +60,8 @@ This is one of those routes that changes the mental map of Canada.
 
 **A week+:** start using Whitehorse as the door to Kluane and a proper Yukon road trip.
 
+**A year+:** apparently we are considering employment now. This escalated.
+
 ## sources
 
 - Travel Yukon — Whitehorse: https://www.travelyukon.com/en/discover/regions/whitehorse/whitehorse
@@ -50,6 +69,7 @@ This is one of those routes that changes the mental map of Canada.
 - Miles Canyon: https://www.travelyukon.com/en/see-and-do/activities/hiking-near-whitehorse-exploring-miles-canyon
 - Eclipse Nordic Hot Springs: https://www.travelyukon.com/en/see-and-do/experience-providers/eclipse-nordic-hot-springs
 - YVR departures: https://www.yvr.ca/en/passengers/flights/departing-flights
+- Skyscanner: https://www.skyscanner.ca/
 
 ## image credit
 
@@ -57,4 +77,4 @@ This is one of those routes that changes the mental map of Canada.
 
 ## current verdict
 
-**Vancouver has a direct button labeled NORTH. Use it.**
+**The button labeled NORTH turned out to lead to an alarmingly plausible life plan.**
