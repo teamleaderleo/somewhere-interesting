@@ -46,9 +46,34 @@ My first-pass shortlist would be:
 
 The real appeal seems to be **crossing neighborhoods on foot** rather than treating the city as a checklist of landmarks.
 
+## practical base for the work trip
+
+**The Clancy, Autograph Collection — 299 Second Street** is a very convenient SoMa base. SFMOMA and Salesforce Park are close; the Embarcadero / Ferry Building and South Beach / Oracle Park are easy outings from there.
+
+This suggests a useful interview-weekend rule: keep the short gaps extremely local, then use the real free blocks to leave SoMa and see a completely different part of the city.
+
+- **About an hour:** Salesforce Park, an Embarcadero walk, or Oracle Park / China Basin.
+- **Two or three hours:** Ferry Building → Chinatown → North Beach → Washington Square. This can be one continuous wander.
+- **Half a day:** Presidio Tunnel Tops → Crissy Field → Golden Gate Bridge.
+- **Brain thoroughly fried:** SFMOMA. Very little logistical imagination required.
+
+## rough work-weekend idea
+
+The trip timing gives roughly a Friday-late-morning arrival and a Monday-early-afternoon departure, so there is enough room for a real weekend even with interviews taking chunks out of it.
+
+**Friday:** check in, shower, wander SoMa / Salesforce Park / Embarcadero. Keep the first day easy.
+
+**Saturday:** Ferry Building in the morning, then Chinatown and North Beach. This is the best downtown walking day and survives interview interruptions well.
+
+**Sunday:** spend the larger free block west of downtown: Presidio Tunnel Tops, Crissy Field and the Golden Gate Bridge. If energy remains, continue toward Golden Gate Park / Haight-Ashbury.
+
+**Monday:** coffee, maybe one last waterfront walk, then airport.
+
+The goal is to let the interviews sit inside the weekend instead of turning the whole trip into an interview waiting room.
+
 ## source rabbit hole
 
-Checked **2026-09-09**.
+Checked **2026-09-09**; trip-planning pass **2026-09-14**.
 
 - SF Planning — East SoMa Area Plan: https://generalplan.sfplanning.org/East_SoMa.htm
 - SF Planning — Central SoMa Area Plan: https://generalplan.sfplanning.org/Central_SoMa.htm
@@ -56,6 +81,7 @@ Checked **2026-09-09**.
 - San Francisco Travel — neighborhood overview: https://www.sftravel.com/neighborhoods
 - San Francisco Travel — Mission District: https://www.sftravel.com/neighborhoods/mission-district
 - San Francisco Travel — Chinatown: https://www.sftravel.com/neighborhoods/visit-chinatown
+- The Clancy / Marriott — https://www.marriott.com/en-us/hotels/sfoaw-the-clancy-autograph-collection/overview/
 
 ## current verdict
 
